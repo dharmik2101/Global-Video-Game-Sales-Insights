@@ -21,9 +21,8 @@ This project analyzes global video game sales data to uncover trends and pattern
 ---
 
 ## Repository Contents
-- 📂 **Dashboard**: [Tableau Workbook](Sales_Project.twb)
-- 📂 **Dataset**: [Video Game Sales Data](data/vgsales.csv)
-- 📂 **Presentation**: [Key Insights and Recommendations](docs/NoteGPT_AI_PPT_1737245760721.pptx)
+- 📂 **Dataset**: [Video Game Sales Data](Sales_dataset/vgsales.csv)
+- 📂 **Presentation**: [Key Insights and Recommendations](Presentation/Presentation .pdf)
 - 📂 **Screenshots**: Visuals from the Tableau dashboard.
 
 ---
@@ -56,13 +55,7 @@ This project analyzes global video game sales data to uncover trends and pattern
 
 ## Visual Preview
 ### 📊 Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
-
-### 🌎 Regional Sales Insights
-![Regional Sales Insights](images/regional_sales.png)
-
-### 🎮 Genre and Platform Analysis
-![Genre and Platform](images/genre_platform.png)
+![Dashboard Overview](images/Dashboard.png)
 
 ---
 
