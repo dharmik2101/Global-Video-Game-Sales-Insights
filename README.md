@@ -68,5 +68,5 @@ This project is licensed under [MIT License](LICENSE).
 For any questions or suggestions, feel free to reach out!
 - **Author**: Dharmik Shah
 - **GitHub**: [dharmik2101](https://github.com/dharmik2101)
-- **Tableau Public**: [Dharmik Shah]([https://public.tableau.com/app/profile/dharmik.shah2873](https://public.tableau.com/app/profile/dharmik.shah2873/viz/GlobalVideoGameSalesInsights/Dashboard1#2))
+- **Tableau Public**:  [Dharmik Shah](https://public.tableau.com/app/profile/dharmik.shah2873)
 
