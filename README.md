@@ -22,7 +22,7 @@ This project analyzes global video game sales data to uncover trends and pattern
 
 ## Repository Contents
 - 📂 **Dataset**: [Video Game Sales Data](Sales_dataset/vgsales.csv)
-- 📂 **Presentation**: [Key Insights and Recommendations](Presentation/Presentation .pdf)
+- 📂 **Presentation**: [Key Insights and Recommendations](Presentation/Presentation.pdf)
 - 📂 **Screenshots**: Visuals from the Tableau dashboard.
 
 ---
@@ -38,7 +38,7 @@ This project analyzes global video game sales data to uncover trends and pattern
 ## Tools Used
 - **Tableau Public**: Dashboard creation and visualization.
 - **Python**: Data cleaning and preprocessing.
-- **Power BI**: Exploratory data analysis.
+- **Tableau**: Exploratory data analysis.
 
 ---
 
@@ -55,7 +55,7 @@ This project analyzes global video game sales data to uncover trends and pattern
 
 ## Visual Preview
 ### 📊 Dashboard Overview
-![Dashboard Overview](images/Dashboard.png)
+![Dashboard Overview](Images/Dashboard.png)
 
 ---
 
