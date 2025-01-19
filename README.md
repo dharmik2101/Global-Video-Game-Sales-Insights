@@ -48,7 +48,6 @@ This project analyzes global video game sales data to uncover trends and pattern
 
 2. **Explore Locally**:
    - Clone this repository.
-   - Open the Tableau workbook (`Sales_Project.twb`) in Tableau Desktop.
    - Use the provided dataset (`vgsales.csv`) for further analysis.
 
 ---
