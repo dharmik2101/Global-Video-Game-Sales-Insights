@@ -74,4 +74,4 @@ This project is licensed under [MIT License](LICENSE).
 ### Connect
 For any questions or suggestions, feel free to reach out!
 - **Author**: Dharmik Shah
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+
