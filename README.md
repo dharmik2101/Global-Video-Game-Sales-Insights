@@ -22,7 +22,7 @@ This project analyzes global video game sales data to uncover trends and pattern
 
 ## Repository Contents
 - 📂 **Dataset**: [Video Game Sales Data](Sales_dataset/vgsales.csv)
-- 📂 **Presentation**: [Key Insights and Recommendations](Presentation/Presentation .pdf)
+- 📂 **Presentation**: [Key Insights and Recommendations](Presentation/Presentation.pdf)
 - 📂 **Screenshots**: Visuals from the Tableau dashboard.
 
 ---
