@@ -1,5 +1,9 @@
 # 🎮 Global Video Game Sales Insights
 ![Project Banner](Images/Banner.png)
+![Tableau](https://img.shields.io/badge/Visualization-Tableau-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Entries](https://img.shields.io/badge/Data%20Entries-16,598-lightblue)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=dharmik2101.Global-Video-Game-Sales-Insights)
 
 ## Overview
 This project analyzes global video game sales data to uncover trends and patterns in the gaming industry. The dashboard provides actionable insights for stakeholders, showcasing how factors like genre, platform, and publisher influence sales performance. 
@@ -67,4 +71,6 @@ This project is licensed under [MIT License](LICENSE).
 ### Connect
 For any questions or suggestions, feel free to reach out!
 - **Author**: Dharmik Shah
+- **GitHub**: [dharmik2101](https://github.com/dharmik2101)
+- **Tableau Public**: [Dharmik Shah]([https://public.tableau.com/app/profile/dharmik.shah2873](https://public.tableau.com/app/profile/dharmik.shah2873/viz/GlobalVideoGameSalesInsights/Dashboard1#2))
 
