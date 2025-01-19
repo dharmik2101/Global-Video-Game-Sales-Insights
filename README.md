@@ -1,4 +1,5 @@
 # 🎮 Global Video Game Sales Insights
+![Project Banner](Images/Banner.png)
 
 ## Overview
 This project analyzes global video game sales data to uncover trends and patterns in the gaming industry. The dashboard provides actionable insights for stakeholders, showcasing how factors like genre, platform, and publisher influence sales performance. 
